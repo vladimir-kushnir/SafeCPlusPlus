@@ -1,3 +1,15 @@
+/*
+ 
+ “Safe C++, Or How to Avoid Most Common Mistakes in C++ Code"
+ by Vladimir Kushnir, (O’Reilly).
+ 
+ Copyright 2012 Vladimir Kushnir, ISBN 9781449320935.
+ 
+ If you feel your use of code examples falls outside fair use or the
+ permission given above, feel free to contact us at permissions@oreilly.com.
+ 
+*/
+
 #include "scpp_assert.hpp"
 
 #include <iostream>	// cerr, endl, flush

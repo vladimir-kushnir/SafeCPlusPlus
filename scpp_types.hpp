@@ -1,3 +1,15 @@
+/*
+
+ ÒSafe C++, Or How to Avoid Most Common Mistakes in C++ Code"
+ by Vladimir Kushnir, (OÕReilly).
+ 
+ Copyright 2012 Vladimir Kushnir, ISBN 9781449320935.
+
+ If you feel your use of code examples falls outside fair use or the
+ permission given above, feel free to contact us at permissions@oreilly.com.
+
+*/
+
 #ifndef __SCPP_TYPES_HPP_INCLUDED__
 #define __SCPP_TYPES_HPP_INCLUDED__
 
