@@ -1,6 +1,6 @@
 /*
 
- ÒSafe C++, Or How to Avoid Most Common Mistakes in C++ Code"
+ Safe C++, Or How to Avoid Most Common Mistakes in C++ Code
  by Vladimir Kushnir, (OÕReilly).
 
  Copyright 2012 Vladimir Kushnir, ISBN 9781449320935.
