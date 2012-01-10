@@ -1,5 +1,5 @@
 /*
- 
+
  ÒSafe C++, Or How to Avoid Most Common Mistakes in C++ Code"
  by Vladimir Kushnir, (OÕReilly).
  
